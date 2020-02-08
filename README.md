@@ -1,0 +1,8 @@
+# hardik_mishra_epam
+EPAM Maven OOPS Project
+
+Project assignment given by EPAM for industry level preparation. Project built using Maven and Java OOPS concepts.
+
+To run the project, go to target folder and execute the jar file in terminal
+
+Command used "java -jar java-oops-project-1.0-SNAPSHOT.jar"
